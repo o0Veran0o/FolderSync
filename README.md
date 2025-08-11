@@ -1,4 +1,4 @@
-How to Compile and Run
+How to Compile and Run:
 Place all three files (Program.cs, Logger.cs, and FolderSynchronizer.cs) in your project directory.
 Build the project:
 dotnet build -c Release
