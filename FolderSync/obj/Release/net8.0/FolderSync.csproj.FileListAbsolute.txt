@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FolderSync\FolderSync\bin\Release\net8.0\FolderSync.exe
+C:\Users\User\source\repos\FolderSync\FolderSync\bin\Release\net8.0\FolderSync.deps.json
+C:\Users\User\source\repos\FolderSync\FolderSync\bin\Release\net8.0\FolderSync.runtimeconfig.json
+C:\Users\User\source\repos\FolderSync\FolderSync\bin\Release\net8.0\FolderSync.dll
+C:\Users\User\source\repos\FolderSync\FolderSync\bin\Release\net8.0\FolderSync.pdb
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.AssemblyInfo.cs
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.dll
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\refint\FolderSync.dll
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.pdb
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\FolderSync.genruntimeconfig.cache
+C:\Users\User\source\repos\FolderSync\FolderSync\obj\Release\net8.0\ref\FolderSync.dll
