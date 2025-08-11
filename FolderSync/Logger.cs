@@ -4,7 +4,7 @@ using System.IO;
 public class Logger
 {
     private readonly string logFilePath;
-    private static readonly object @lock = new object();
+    private static readonly object lock_obj = new object();
 
     public Logger(string logFilePath)
     {
@@ -18,7 +18,7 @@ public class Logger
         Console.WriteLine(formattedMessage);
 
         // Write to file with a lock to prevent race conditions
-        lock (@lock)
+        lock (lock_obj)
         {
             try
             {
